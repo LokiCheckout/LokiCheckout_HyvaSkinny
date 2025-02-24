@@ -1,6 +1,8 @@
-# Yireo_LokiCheckoutEmpty
+# Yireo_LokiCheckoutHyvaSkinny
 
-**This is an add-on package to the LokiCheckout. It is only a dummy to kickstart new modules easily.**
+**This is an add-on package to the LokiCheckout. It is meant to remove as many Hyva theme elements from the checkout as
+possible, without breaking functionality. See this module more as an ongoing experiment. Perhaps, what you could do is
+copy the changes from this module to your own custom theme for better maintenance.**
 
 Current status: Draft
 
