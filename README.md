@@ -4,8 +4,6 @@
 possible, without breaking functionality. See this module more as an ongoing experiment. Perhaps, what you could do is
 copy the changes from this module to your own custom theme for better maintenance.**
 
-Current status: Draft
-
 ## Installation
 Install this package via composer (assuming you have setup the `composer.yireo.com` repository correctly already):
 ```bash
