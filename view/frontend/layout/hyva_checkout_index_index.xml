@@ -4,5 +4,6 @@
         <referenceBlock name="form.subscribe" remove="true"/>
         <referenceBlock name="currency-switcher" remove="true"/>
         <referenceBlock name="head.hyva-script" remove="true"/>
+        <referenceBlock name="header-search" remove="true"/>
     </body>
 </page>
