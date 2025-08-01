@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.5] - 01 August 2025
+### Fixed
+- Remove header-search if there
+
 ## [0.0.4] - 22 July 2025
 ### Fixed
 - Rename PHP namespace from `Yireo_Loki*` to `Loki*`
