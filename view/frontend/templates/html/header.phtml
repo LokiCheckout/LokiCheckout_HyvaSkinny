@@ -1,0 +1,21 @@
+<?php
+declare(strict_types=1);
+
+use Magento\Framework\Escaper;
+use Magento\Framework\View\Element\Template;
+
+/** @var Escaper $escaper */
+/** @var Template $block */
+?>
+<div id="header"
+     class="relative z-30 w-full border-b shadow bg-container-lighter border-container-lighter"
+>
+    <div class="container flex flex-wrap lg:flex-nowrap items-center justify-between w-full px-6 py-3 mx-auto mt-0">
+        <?= $block->getChildHtml('logo'); ?>
+
+        <div class="flex items-center gap-2 md:gap-1 order-3 md:-mr-1">
+            <?= $block->getChildHtml('additional') ?>
+        </div>
+    </div>
+</div>
+
