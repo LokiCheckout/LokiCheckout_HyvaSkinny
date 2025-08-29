@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.9] - 29 August 2025
+### Fixed
+- Add CI files
+- Replace yireo/opensearch with yireo/opensearch-dummy in Gitlab CI
+
 ## [0.0.8] - 26 August 2025
 ### Fixed
 - Add GitLab CI files
