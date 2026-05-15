@@ -1,7 +1,7 @@
 {
     "name": "loki-checkout/magento2-hyva-skinny",
     "version": "0.0.10",
-    "description": "N/A",
+    "description": "Skin down your Hyva theme to optimize the checkout",
     "keywords": [
         "loki-checkout-category-theme",
         "loki-checkout"
