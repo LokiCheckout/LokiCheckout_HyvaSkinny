@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.12] - 08 November 2026
+### Fixed
+- Remove PHP 8.1 support, add PHP 8.5 support
+
 ## [0.0.11] - 21 May 2026
 ### Fixed
 - Do not remove Hyva scripts
